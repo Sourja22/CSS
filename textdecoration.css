@@ -1,0 +1,21 @@
+div>p{
+    /* decorating text */
+    text-decoration: underline;
+    text-decoration-color: blue;
+
+    /* shifting text to right */
+    /* text-indent: 45px; */
+    text-decoration-style: dotted;
+    /* text-decoration-thickness: ; */
+    /* transforming first letter of text to capital */
+    text-transform: capitalize; 
+
+    text-align: center;
+    color: rgb(164, 159, 216);
+
+    /* the value of a(alpha) varies from 0 to 1(1 means fully transparent/invisible)
+    color:rgba(red, green, blue, alpha) */
+    /* to hide overflown text */
+    /* text-overflow */
+
+}

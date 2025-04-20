@@ -1,0 +1,20 @@
+/* Selecting the last child of that particular div (same for first child)*/
+/* div:last-child{
+    background-color: orange;
+    display: none;
+} */
+
+
+/* all p under div will be of the same color */
+div>p{
+    background-color: orange;
+    padding: 3rem;
+    margin: 2rem;
+    border: 2rem solid blue;
+    height: 7rem;
+    box-sizing: border-box;
+}
+*{
+    margin: 0rem;
+    border: 0rem;
+}
